@@ -1,4 +1,4 @@
-## 🌐 Escolha o Idioma / Choose your Language:
+## 🌐
 [![Português](https://img.shields.io/badge/-Português-green)](README.md)  
 [![English](https://img.shields.io/badge/-English-blue)](README_en.md)
 
