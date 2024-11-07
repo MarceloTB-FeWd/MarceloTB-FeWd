@@ -8,9 +8,7 @@
 I am a beginner in programming, currently focusing on front-end web development. 
 I am gradually learning the fundamentals of website creation and constructing small projects to gain experience and apply what I know.
 
-🛠️ Sure, here is the revised text:
-
-**Technologies and Tools in Learning**  
+🛠️ **Technologies and Tools in Learning** 🛠️  
 - HTML5 and CSS3  
 - JavaScript  
 - Version control with Git and GitHub  
