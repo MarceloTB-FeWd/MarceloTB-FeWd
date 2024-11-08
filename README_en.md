@@ -72,6 +72,9 @@ Additionally, I'm practicing with simple pages and learning concepts such as lay
   <img src="https://img.shields.io/badge/-HTML5-ff9e64?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-7aa2f7?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-565f89?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS_Code-7aa2f7?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS Code" />
 </div>
 
 ---
