@@ -15,108 +15,7 @@ I am gradually learning the fundamentals of website creation and constructing sm
 Become a Fullstack Web Developer 👨‍💻
 
 ---
-## 🛠️ Study Roadmap 🧱 
-
-<table>
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Starting Point</td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Development Tools</td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Web Development Fundamentals</td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Basic Programming Logic</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    </td>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">JavaScript Fundamentals</td>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Librarie and State Management</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Back-End</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
-    </td>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">APIs</td>
-    <td style="text-align: center; border: 2px solid #82aaff;" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Typed Programming</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Databases</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
-    </td>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Integration</td>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff; background-color: #1f2335; color: #c0caf5; font-family: 'Courier New', Courier, monospace;" colspan="2">Testing</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 2px solid #82aaff" colspan="2">
-      <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-    </td>
-  </tr>
-
-</table>
-
----
-🛠️ **Text-based Roadmap**
+## 🛠️ Text-based Roadmap 🧱 
 
              Starting Point
                 |
@@ -168,6 +67,12 @@ Become a Fullstack Web Developer 👨‍💻
 
 I'm starting my learning journey by studying HTML, CSS, and JavaScript. I'm exploring how these elements combine to create a website's structure, style, and functionality. 
 Additionally, I'm practicing with simple pages and learning concepts such as layout, responsiveness, and user interaction.
+
+<div align="center" style="background-color:#1f2335; padding:20px; border-radius:10px;">
+  <img src="https://img.shields.io/badge/-HTML5-ff9e64?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-7aa2f7?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+</div>
 
 ---
 
